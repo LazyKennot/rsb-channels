@@ -1,0 +1,76 @@
+{
+	"messages": [
+		{
+			"title": "Click on the corresponding reaction to add or remove a role.\n\n__**Classes**__",
+			"color": "#00ff00",
+			"roles": [
+				{
+					"comment": "Bouncer",
+					"id": "730639869545545740",
+					"emoji": "<:Bouncer:730634012208398377>",
+					"desc": ""
+				},
+				{
+					"comment": "Braver",
+					"id": "730643635317637148",
+					"emoji": "<:Braver:730634012061597708>",
+					"desc": ""
+				},
+				{
+					"comment": "Etoile",
+					"id": "730643664635953184",
+					"emoji": "<:Etoile:730634012107735152>",
+					"desc": ""
+				},
+				{
+					"comment": "Fighter",
+					"id": "730643771833843733",
+					"emoji": "<:Fighter:730634012195946538>",
+					"desc": ""
+				},
+				{
+					"comment": "Force",
+					"id": "730643791886942266",
+					"emoji": "<:Force:730634012078637068>",
+					"desc": ""
+				},
+				{
+					"comment": "Gunner",
+					"id": "730643827487932426",
+					"emoji": "<:Gunner:730634012447735920>",
+					"desc": ""
+				},
+				{
+					"comment": "Hunter",
+					"id": "730643860090388502",
+					"emoji": "<:Hunter:730634012288352268>",
+					"desc": ""
+				},
+				{
+					"comment": "Phantom",
+					"id": "730643882450223186",
+					"emoji": "<:Phantom:730634012455862302>",
+					"desc": ""
+				},
+				{
+					"comment": "Ranger",
+					"id": "730643914825924608",
+					"emoji": "<:Ranger:730634012472639488>",
+					"desc": ""
+				},
+				{
+					"comment": "Summoner",
+					"id": "730643934035968070",
+					"emoji": "<:Summoner:730634012481159199>",
+					"desc": ""
+				},
+				{
+					"comment": "Techter",
+					"id": "730643966776573972",
+					"emoji": "<:Techter:730634012267380777>",
+					"desc": ""
+				}
+			]
+		}
+	]
+}
